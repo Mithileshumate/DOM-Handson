@@ -1,0 +1,17 @@
+#card{
+    display: flex;
+}
+#card div{
+   width: 50px;
+   height: 200px;
+   background-color: rgb(28, 182, 131);
+   border: 2px solid red;
+   margin: 20px;
+   border-radius:30px ;
+}
+
+#btn{
+    background-color:rgb(211, 92, 49);
+    margin-left: 70px;
+    border-radius: 10px;
+}
